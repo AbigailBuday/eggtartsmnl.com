@@ -1,0 +1,396 @@
+Uri: http://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/5b3f3865-28a8-4754-a387-e645e98e56a1/santa+logo+beige.png?format=1500w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\5b3f3865-28a8-4754-a387-e645e98e56a1\santa logo beige-1.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\@sqs\polyfiller\1.6\legacy.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/@sqs/polyfiller/1.6/modern.js
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\@sqs\polyfiller\1.6\modern.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\fonts\social-20141119\social-icon-font.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot?
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\fonts\social-20141119\social-icon-font-1.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.svg
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\fonts\social-20141119\social-icon-font.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.ttf
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\fonts\social-20141119\social-icon-font.ttf
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.woff
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\fonts\social-20141119\social-icon-font.woff
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\fonts\squarespace-ui-font.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot?
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\fonts\squarespace-ui-font-1.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.svg
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\fonts\squarespace-ui-font.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.ttf
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\fonts\squarespace-ui-font.ttf
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.woff
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\fonts\squarespace-ui-font.woff
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\damask\edit-aviary-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light@2x.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\damask\edit-aviary-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-info-light.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\damask\edit-info-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-info-light@2x.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\damask\edit-info-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/error-dark.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\damask\error-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/error-dark@2x.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\damask\error-dark@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/getty-16-light.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\damask\getty-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/getty-32-light.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\damask\getty-32-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/play-button.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\damask\play-button.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/play-button@2x.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\damask\play-button@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-16-light.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\damask\shopping-cart-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-32-light.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\damask\shopping-cart-32-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-light.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\damask\trash-9-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-light@2x.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\damask\trash-9-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-red.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\damask\trash-9-red.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-red@2x.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\damask\trash-9-red@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/block-indicator-dark.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\icons\block-indicator-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/block-indicator-dark@2x.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\icons\block-indicator-dark@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-dark.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\icons\icon-searchqueries-20-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-light.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\icons\icon-searchqueries-20-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-settings-16-light.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\icons\icon-settings-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-video-24-light-solid.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\icons\icon-video-24-light-solid.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/opentable-icons.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\icons\opentable-icons.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/opentable-icons.svg
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\icons\opentable-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/images-v6/standard/icon_close_7_light.png
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\images-v6\standard\icon_close_7_light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-c6a38111aec507149cb3d-min.en-US.js
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\scripts-compressed\cldr-resource-pack-c6a38111aec507149cb3d-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-d7070e8b408cf38ac16f3-min.en-US.js
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\scripts-compressed\cldr-resource-pack-d7070e8b408cf38ac16f3-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-32d182f27bd385f225a84-min.en-US.js
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\scripts-compressed\common-32d182f27bd385f225a84-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-3e2dfa68cf9e7a179d937-min.en-US.js
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\scripts-compressed\common-3e2dfa68cf9e7a179d937-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-757e0720f6324ef3873f5-min.en-US.js
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\scripts-compressed\common-vendors-757e0720f6324ef3873f5-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-ced9e5f782852aca35dcd-min.en-US.js
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\scripts-compressed\common-vendors-ced9e5f782852aca35dcd-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-673d482d883e1c7ecd140-min.en-US.js
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\scripts-compressed\common-vendors-stable-673d482d883e1c7ecd140-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-fd2acc815706e38fcfdf0-min.en-US.js
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\scripts-compressed\common-vendors-stable-fd2acc815706e38fcfdf0-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\scripts-compressed\extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-85f952022b6a41a18ff84-min.en-US.js
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\scripts-compressed\extract-css-runtime-85f952022b6a41a18ff84-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-ae821cadaedc8090374a5-min.en-US.js
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\scripts-compressed\extract-css-runtime-ae821cadaedc8090374a5-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-edd33af6a1dae7dcf9c4b-min.en-US.js
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\scripts-compressed\extract-css-runtime-edd33af6a1dae7dcf9c4b-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/performance-6205cb722ec42cec1d0d8-min.en-US.js
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\scripts-compressed\performance-6205cb722ec42cec1d0d8-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/performance-922e045878a3b9eb87db3-min.en-US.js
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\universal\scripts-compressed\performance-922e045878a3b9eb87db3-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://eggtartsmnl.com/
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\index-1.htm
+Content Type: text/html
+
+Uri: https://eggtartsmnl.com/?fbclid=IwAR05U2HHkrKuV63f8qhvInz55hMeT5_m-db74acS5l8DjmUcBtBtdBsq5ck
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\index.htm
+Content Type: text/html
+
+Uri: https://eggtartsmnl.com/cart
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\cart.html
+Content Type: text/html
+
+Uri: https://eggtartsmnl.com/faqs
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\faqs.html
+Content Type: text/html
+
+Uri: https://eggtartsmnl.com/location
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\location.html
+Content Type: text/html
+
+Uri: https://eggtartsmnl.com/menu
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\menu.html
+Content Type: text/html
+
+Uri: https://eggtartsmnl.com/party-packages
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\party-packages.html
+Content Type: text/html
+
+Uri: https://eggtartsmnl.com/shipping-policy
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\shipping-policy.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@400;700
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://images.squarespace-cdn.com/
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\index-2.htm
+Content Type: 
+
+Uri: https://images.squarespace-cdn.com/content/61775e224fac81568f050aaa/1b97563b-0718-42d7-b1ae-b59ccce7ed3a/SOC+MED+(1).png?format=1500w&content-type=image%2Fpng
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\61775e224fac81568f050aaa\1b97563b-0718-42d7-b1ae-b59ccce7ed3a\SOC MED (1).png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/0e54597b-0c2e-42ef-9e04-f279eae73642/Snapseed+3.jpg
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\0e54597b-0c2e-42ef-9e04-f279eae73642\Snapseed 3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/1ab548ea-a23c-4b1f-8b41-87a9b85b0bff/DSCF4665.jpg
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\1ab548ea-a23c-4b1f-8b41-87a9b85b0bff\DSCF4665.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/2c6063c8-792a-40d3-b5aa-6161b2f6ac8f/IMG_8816.jpg
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\2c6063c8-792a-40d3-b5aa-6161b2f6ac8f\IMG_8816.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/4407a8d1-1e89-4501-9d58-76a639e2b04b/_DSC0115.jpg?format=1000w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\4407a8d1-1e89-4501-9d58-76a639e2b04b\_DSC0115-4.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/4407a8d1-1e89-4501-9d58-76a639e2b04b/_DSC0115.jpg?format=100w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\4407a8d1-1e89-4501-9d58-76a639e2b04b\_DSC0115.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/4407a8d1-1e89-4501-9d58-76a639e2b04b/_DSC0115.jpg?format=1500w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\4407a8d1-1e89-4501-9d58-76a639e2b04b\_DSC0115-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/4407a8d1-1e89-4501-9d58-76a639e2b04b/_DSC0115.jpg?format=2500w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\4407a8d1-1e89-4501-9d58-76a639e2b04b\_DSC0115-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/4407a8d1-1e89-4501-9d58-76a639e2b04b/_DSC0115.jpg?format=300w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\4407a8d1-1e89-4501-9d58-76a639e2b04b\_DSC0115-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/4407a8d1-1e89-4501-9d58-76a639e2b04b/_DSC0115.jpg?format=500w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\4407a8d1-1e89-4501-9d58-76a639e2b04b\_DSC0115-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/4407a8d1-1e89-4501-9d58-76a639e2b04b/_DSC0115.jpg?format=750w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\4407a8d1-1e89-4501-9d58-76a639e2b04b\_DSC0115-3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/46b3506e-54a3-4c22-890e-0a079c66bc4a/IMG_2112.jpg
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\46b3506e-54a3-4c22-890e-0a079c66bc4a\IMG_2112.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/5b3f3865-28a8-4754-a387-e645e98e56a1/santa+logo+beige.png?format=1500w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\5b3f3865-28a8-4754-a387-e645e98e56a1\santa logo beige.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/74eecd9d-1855-42c4-9995-e9aea5af321b/IMG_0093.jpg
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\74eecd9d-1855-42c4-9995-e9aea5af321b\IMG_0093.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/897b1ef8-616e-4f5e-9282-10f1aad18b9c/Logo+white+copy.png?format=1500w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\897b1ef8-616e-4f5e-9282-10f1aad18b9c\Logo white copy.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/9228b47f-4e3d-44a7-a8c1-297f50dc3a28/favicon.ico?format=100w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\9228b47f-4e3d-44a7-a8c1-297f50dc3a28\favicon.ico
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/a8fef0b8-039d-4f4e-be39-3988a5d5f512/IMG_2528.jpg
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\a8fef0b8-039d-4f4e-be39-3988a5d5f512\IMG_2528.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/b3f9916e-eeb4-4420-80d3-30f16e0dde99/Full+Screen+Ad_EggTartsManila+blank.png?format=1000w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\b3f9916e-eeb4-4420-80d3-30f16e0dde99\Full Screen Ad_EggTartsManila blank-4.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/b3f9916e-eeb4-4420-80d3-30f16e0dde99/Full+Screen+Ad_EggTartsManila+blank.png?format=100w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\b3f9916e-eeb4-4420-80d3-30f16e0dde99\Full Screen Ad_EggTartsManila blank.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/b3f9916e-eeb4-4420-80d3-30f16e0dde99/Full+Screen+Ad_EggTartsManila+blank.png?format=1500w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\b3f9916e-eeb4-4420-80d3-30f16e0dde99\Full Screen Ad_EggTartsManila blank-5.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/b3f9916e-eeb4-4420-80d3-30f16e0dde99/Full+Screen+Ad_EggTartsManila+blank.png?format=300w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\b3f9916e-eeb4-4420-80d3-30f16e0dde99\Full Screen Ad_EggTartsManila blank-1.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/b3f9916e-eeb4-4420-80d3-30f16e0dde99/Full+Screen+Ad_EggTartsManila+blank.png?format=500w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\b3f9916e-eeb4-4420-80d3-30f16e0dde99\Full Screen Ad_EggTartsManila blank-2.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/b3f9916e-eeb4-4420-80d3-30f16e0dde99/Full+Screen+Ad_EggTartsManila+blank.png?format=750w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\b3f9916e-eeb4-4420-80d3-30f16e0dde99\Full Screen Ad_EggTartsManila blank-3.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/b3f9916e-eeb4-4420-80d3-30f16e0dde99/Full+Screen+Ad_EggTartsManila+blank.png?format=original
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\b3f9916e-eeb4-4420-80d3-30f16e0dde99\Full Screen Ad_EggTartsManila blank-6.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/c534cf99-953a-48a9-879a-0ac04497e59a/_DSC0026.jpg?format=1000w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\c534cf99-953a-48a9-879a-0ac04497e59a\_DSC0026-4.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/c534cf99-953a-48a9-879a-0ac04497e59a/_DSC0026.jpg?format=100w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\c534cf99-953a-48a9-879a-0ac04497e59a\_DSC0026.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/c534cf99-953a-48a9-879a-0ac04497e59a/_DSC0026.jpg?format=1500w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\c534cf99-953a-48a9-879a-0ac04497e59a\_DSC0026-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/c534cf99-953a-48a9-879a-0ac04497e59a/_DSC0026.jpg?format=2500w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\c534cf99-953a-48a9-879a-0ac04497e59a\_DSC0026-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/c534cf99-953a-48a9-879a-0ac04497e59a/_DSC0026.jpg?format=300w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\c534cf99-953a-48a9-879a-0ac04497e59a\_DSC0026-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/c534cf99-953a-48a9-879a-0ac04497e59a/_DSC0026.jpg?format=500w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\c534cf99-953a-48a9-879a-0ac04497e59a\_DSC0026-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/c534cf99-953a-48a9-879a-0ac04497e59a/_DSC0026.jpg?format=750w
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\c534cf99-953a-48a9-879a-0ac04497e59a\_DSC0026-3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/61775e224fac81568f050aaa/d63c24e7-e8b7-420d-a66b-d52d72384a5c/IMG_5783+2.jpg
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\content\v1\61775e224fac81568f050aaa\d63c24e7-e8b7-420d-a66b-d52d72384a5c\IMG_5783 2.jpg
+Content Type: image/jpeg
+
+Uri: https://static1.squarespace.com/static/versioned-site-css/61775e224fac81568f050aaa/26/5c5a519771c10ba3470d8101/61775e224fac81568f050ac3/1335/site.css
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\static\versioned-site-css\61775e224fac81568f050aaa\26\5c5a519771c10ba3470d8101\61775e224fac81568f050ac3\1335\site.css
+Content Type: text/css
+
+Uri: https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.726575f581c2160e687ee68e8a34dbaf.js
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\static\vta\5c5a519771c10ba3470d8101\scripts\site-bundle.726575f581c2160e687ee68e8a34dbaf.js
+Content Type: application/javascript
+
+Uri: https://use.typekit.net/ik/lDYQIszrcDGXo0ZTJKclQp9-a-R2KSdgk8A4clWQT_tfe0C2fFHN4UJLFRbh52jhWDjUFDSuZQJkFeZyjD6UFQjtZRMuweByjsnNMKG0jAFu-WsoShFGZAsude80ZkoRdhXCHKoyjamTiY8Djhy8ZYmC-Ao1Oco8if37OcBDOcu8OfG0ZAi1ieBkiYFldc30SaBujW48Sagyjh90jhNlOfG0SaBujW48SagyjhmDjhy8ZYmC-Ao1OcFzdPUyjamTiY8Djhy8ZYmC-Ao1OcFzdPUyjamTiY8Djhy8ZYmC-Ao1Oco8ifUySkolZPU8ZhiXjW4XShu0dfoRdhXCZAi1ieBkiYFldc30SaBujW48Sagyjh90jhNlOeUzjhBC-eNDifUDSWmyScmDSeBRZWFR-emqiAUTdcS0jhNlOYiaikoyjamTiY8Djhy8ZYmC-Ao1OcFzdPUaiaS0jAFu-WsoShFGZAsude80Zko0ZWbCiaiaOcBDOcu8OYiaiko8ZhiXjW4XShu0dfoRdhXCiaiaOcm1ZasyS1sDdAoCO1FUiABkZWF3jAF8OcFzdPUaiaS0SaBujW48SagyjhmDjhy8ZYmC-Ao1OcFzdPJsicB1OW4udcsDjhyk-AZXOAb7fbKsjyMMeMw6MKG4f4gKIMMjgfMfH6qJqcJbMg6FJMJ7fbKQjyMMeMt6MTMg7zLTK3j.js
+File Name: C:\Downloaded Web Sites\eggtartsmnl.com\ik\lDYQIszrcDGXo0ZTJKclQp9-a-R2KSdgk8A4clWQT_tfe0C2fFHN4UJLFRbh52jhWDjUFDSuZQJkFeZyjD6UFQjtZRMuweByjsnNMKG0jAFu-WsoShFGZAsude80ZkoRdhXCHKoyjamTiY8Djhy8ZYmC-Ao1Oco8if37OcBDOcu8OfG0ZAi1ieBkiYFldc30SaBujW48Sagyjh90jhNl.js
+Content Type: text/javascript
+
